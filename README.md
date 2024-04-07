@@ -1,6 +1,7 @@
 # Exploring Inverse Rendering
 ## Introduction
-I was looking for an excuse to learn about inverse rendering, and this final project provided me with an excuse to do so.
+I was looking for an excuse to learn about inverse rendering, and this final project provided me with an excuse to do so. More specifically, I'll be reproducing [this](https://mitsuba.readthedocs.io/en/latest/src/inverse_rendering/caustics_optimization.html) from the Realistic
+Graphics Lab (RGL) at EPFL, Switzerland.
 
 Here's some results I rendered of caustic lenses produced with inverse rendering:
 
