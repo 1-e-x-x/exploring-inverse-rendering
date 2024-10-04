@@ -1,7 +1,7 @@
 # Exploring Inverse Rendering
 ## Introduction
-I was looking for an excuse to learn about inverse rendering, and this final project provided me with an excuse to do so. More specifically, I'll be reproducing [this](https://mitsuba.readthedocs.io/en/latest/src/inverse_rendering/caustics_optimization.html) from the Realistic
-Graphics Lab (RGL) at EPFL, Switzerland.
+I was interested in about learning inverse rendering and Mitsuba 3.0. For this project I reproduced [this](https://mitsuba.readthedocs.io/en/latest/src/inverse_rendering/caustics_optimization.html) from the Realistic
+Graphics Lab (RGL) at EPFL, Switzerland. I'm currently looking at setting up resin 3D printing to produce these lenses in real life.
 
 Here's some results I rendered of caustic lenses produced with inverse rendering:
 
